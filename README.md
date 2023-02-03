@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Spyridon 👋
 
 <!-- icons with padding -->
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=2bbc8a)
