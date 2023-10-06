@@ -11,7 +11,6 @@
 
 #### 🔭 I'm currently working on my Master's in Applied Artificial Intelligence with Focus on Software Engineering at Stevens Institute of Technology.
 #### 🎓 Anticipated graduation December 2023.
-#### 🔎 Currently, in search of summer internship on Software Engineering and Machine Learning. 
 
 
 
